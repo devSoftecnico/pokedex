@@ -1,0 +1,14 @@
+html, body {
+    align-content: center;
+    padding: 20px;
+    background-color: grey;
+}
+
+h1{
+    font-size: 40px;
+    color: brown;
+}
+h2{
+    font-size: 30px;
+    color: white;
+}
